@@ -1,5 +1,7 @@
 ### MARKDOWN CHEATSHEET
-https://www.markdownguide.org/cheat-sheet/
+
+#### https://www.markdownguide.org/extended-syntax/
+#### https://www.markdownguide.org/cheat-sheet/
 
 ### DBMS TUTORIAL
-https://www.javatpoint.com/dbms-tutorial
+#### https://www.javatpoint.com/dbms-tutorial
